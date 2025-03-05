@@ -1,0 +1,15 @@
+"C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\bin\armPROC.dll" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\bin\armJLINK.dll" 
+
+"C:\RTOS_STM32F407_DISCOVERY\Software & Toolchain\FreeRTOSv202012.00\FreeRTOSv202012.00\FreeRTOS\Demo\CORTEX_STM32F103_IAR\Debug\Exe\RTOSDemo.out" 
+
+--plugin="C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\bin\armbat.dll" 
+
+--device_macro="C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm/config/debugger/ST/STM32F1xx.dmac" 
+
+--flash_loader="C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm/config/flashloader/ST/FlashSTM32F10xxG.board" 
+
+
+
+
